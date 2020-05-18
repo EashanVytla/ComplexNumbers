@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Complex Numbers.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  VytlaEashan_Complex Numbers.cpp
+C:\Data\CP3\ComplexNums\Complex Numbers\Complex Numbers\VytlaEashan_ComplexNumber.h(95,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Data\CP3\ComplexNums\Complex Numbers\Complex Numbers\VytlaEashan_ComplexNumber.h(96,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Data\CP3\ComplexNums\Complex Numbers\Complex Numbers\VytlaEashan_ComplexNumber.h(119,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Data\CP3\ComplexNums\Complex Numbers\Complex Numbers\VytlaEashan_ComplexNumber.h(119,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Data\CP3\ComplexNums\Complex Numbers\Complex Numbers\VytlaEashan_ComplexNumber.h(120,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Data\CP3\ComplexNums\Complex Numbers\Complex Numbers\VytlaEashan_ComplexNumber.h(120,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Data\CP3\ComplexNums\Complex Numbers\Complex Numbers\VytlaEashan_Complex Numbers.cpp(28,15): warning C4101: 'mya2': unreferenced local variable
+C:\Data\CP3\ComplexNums\Complex Numbers\Complex Numbers\VytlaEashan_Complex Numbers.cpp(33,15): warning C4101: 'Magnitude': unreferenced local variable
+C:\Data\CP3\ComplexNums\Complex Numbers\Complex Numbers\VytlaEashan_Complex Numbers.cpp(27,15): warning C4101: 'mya1': unreferenced local variable
+  Complex Numbers.vcxproj -> C:\Data\CP3\ComplexNums\Complex Numbers\Debug\ComplexNumbers.exe
