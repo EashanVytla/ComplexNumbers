@@ -1,11 +1,10 @@
 // Eashan Vytla
 // Grade: 9
-// 5/14/2020
-// Honors Computer Programming 3
-// Project: Checkbook
-// File: circle.h
+// 5/11/2020
+// Project: Complex Numbers
+// File: ComplexNumber.h
 // More Projects on Github: https://github.com/EashanVytla
-// The purpose of this program is to introduce object oriented programming to calculate the circumfrence of a circle
+// The purpose of this program is to introduce object oriented programming to perform operations on complex numbers
 
 #pragma once
 
